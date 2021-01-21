@@ -1,7 +1,7 @@
 # Webpack 
  - formattedMain.js has a simplified verion of what webpack outputs when bundling
 
-## How webpack works
+## How webpack works - common js syntax
 
 1. Webpack creates an array of modules, using the file names as keys, and a function as the value.
 
@@ -34,3 +34,6 @@ module {
 4. The message is then console logged out in index.js
 
 
+
+
+## How webpack works - ES Module syntax
